@@ -16,5 +16,5 @@ setup(
     license="MIT",
     packages=find_packages(),
     zip_safe=False,
-    install_requires=["keras"],
+    install_requires=["keras==2.3.0"],
 )
